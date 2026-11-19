@@ -33,3 +33,4 @@ rồi mở http://localhost:8000
 
 - Form đặt phòng chỉ gửi yêu cầu, nhân viên sẽ liên hệ xác nhận qua hotline/Zalo.
 - Website không cần backend, không cần build.
+GitHub Write Permission Test - Eapok Garden
